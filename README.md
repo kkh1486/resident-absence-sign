@@ -7,5 +7,5 @@ resident-absence-sign (재실자 부재중 표지판)
 그렇지 않은 경우 캐릭터가 문 밖으로 나가 재실 부재중인 상황을 나타낸다.
 
 환경
-Android Studio -java
+Android Studio -java,
 virtual device - 10.1 WXGA (Tablet) API 32 - orientation for preview - landscape
