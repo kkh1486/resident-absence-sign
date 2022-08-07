@@ -1,5 +1,5 @@
 # resident-absence-sign
-resident-absence-sign (재실자 부재중)
+resident-absence-sign (재실자 부재중 표지판)
 
 랩실 문 앞에 있는 Galaxy tab S6에 이 앱을 켜놓고
 재실자가 부재중인지 표시할 수 있도록 이름을 터치하면서 현재 상태를 표시할 수 있다.
